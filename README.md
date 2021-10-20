@@ -12,7 +12,7 @@ If it doesn't 100% workout, I still expect the visualizations with different tim
 
 ### Resources Required
 
-I will use a public data source provided by Uber to download the traffic data of the city of Los Angeles. Besids the traffic data, I might also use the map data provided by the LA County eGIS Program. The link for Uber's data is ![here](https://movement.uber.com/?lang=en-US), and the link for eGIS's data is ![here](https://egis-lacounty.hub.arcgis.com/).
+I will use a public data source provided by Uber to download the traffic data of the city of Los Angeles. Besids the traffic data, I might also use the map data provided by the LA County eGIS Program. The link for Uber's data is [here](https://movement.uber.com/?lang=en-US), and the link for eGIS's data is [here](https://egis-lacounty.hub.arcgis.com/).
 
 ### Tools and Skills Required
 
