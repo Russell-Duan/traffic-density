@@ -37,5 +37,7 @@ The world will definitely become a better place because of the existence of our 
 
 ### Tentative Timeline
 After two weeks: Download and preprocess the two data sets. Modeling the traffic density.
+
 After four weeks: Use the modeled data to make plots and to construct the network.
+
 After six weeks: Implement the functions needed and design the user interface.
