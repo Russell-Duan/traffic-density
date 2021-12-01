@@ -1,3 +1,10 @@
-<!doctype html>
-<title>PIC16B Website</title>
-<p>Hello! This html is from a separate HTML file.</p>
+{% block header %}
+  <h1 style="color:skyblue;font-family:Monaco">{% block title %}A Simple Message Bank{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+  <p style="color:darkseagreen;font-family:Monaco"><a href="/submit/">Submit a message</a></p>
+
+  <p style="color:darkseagreen;font-family:Monaco"><a href="/view/">View Messages</a></p>
+
+{% endblock %}

@@ -1,0 +1,19 @@
+{% block header %}
+  <h1 style="color:skyblue;font-family:Monaco">{% block title %}Submit{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+
+  <form method="post">
+    <label for="name">Your message:</label>
+    <br>
+    <input type="text" name="message" id="message">
+    <br>
+    <label for="handle">Your name or handle:</label>
+    <br>
+    <input type="text" name="handle" id="handle">
+    <br>
+    <input type="submit" value="Submit form">
+</form>
+
+{% endblock %}
